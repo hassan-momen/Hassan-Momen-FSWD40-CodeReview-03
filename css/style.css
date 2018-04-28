@@ -1,0 +1,108 @@
+header {
+	font-size: 250%;
+	text-align: center;
+	color: #E78244;
+}
+
+header h2 {
+	color: #2D4452;
+}
+
+body {
+	background-color: #F4F4F4;
+}
+
+#demo {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #38A18C;
+	justify-content: space-around;
+	text-align: center;
+	align-items: center;
+	padding-top: 20px;
+	height: 400px;
+	font-size: 200%;
+	color: white;
+	font-weight: bold;
+} 
+
+#button {
+	font-size: 40px;
+	color: #2D4452;
+	border-radius: 20px;
+	margin-top: 30px;
+}
+
+#imgs {
+	width: 250px;
+	height: 250px;
+}
+
+/*calculate.html*/
+
+#Container {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	padding-top: 30px;
+	justify-content: space-around;
+	color: black;
+	background-color: #406A80;
+	height: 50px;
+	color: white;
+} 
+
+main {
+	background-color: #406A80;
+	height: 400px;
+}
+
+.input1 {
+	border-radius: 20px;
+	width: 20%;
+	font-size: 100%;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.input2 {
+	border-radius: 20px;
+	width: 20%;
+	font-size: 100%;
+	text-align: center;
+	margin-left: 90px;
+	margin-top: 10px;
+}
+.input3 {
+	border-radius: 20px;
+	width: 20%;
+	font-size: 100%;
+	text-align: center;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.input4 {
+	border-radius: 20px;
+	width: 20%;
+	font-size: 100%;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+#text { 
+	color: #34393C;
+}
+
+#reults {
+	display: flex;
+	font-size: 20px;
+}
+
+#button2 {
+	font-size: 40px;
+	color: #2D4452;
+	border-radius: 20px;
+	margin-top: 15px;
+}
